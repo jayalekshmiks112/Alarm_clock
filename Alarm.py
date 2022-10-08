@@ -46,6 +46,7 @@ while True:
             if min == c_min:
                 if sec == c_sec:
                     print("Wake up!!!!")
+                    playsound("C:\\Users\\Jayalekshmi\\Desktop\\Sample\\Alarm\\sound.wav")
                     break
 
 
