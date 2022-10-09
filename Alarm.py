@@ -45,7 +45,7 @@ while True:
         if hour == c_hour:
             if min == c_min:
                 if sec == c_sec:
-                    print("Wake up!!!!")
+                    print("Wake up Jaya!!!!")
                     playsound("C:\\Users\\Jayalekshmi\\Desktop\\Sample\\Alarm\\sound.wav")
                     break
 
